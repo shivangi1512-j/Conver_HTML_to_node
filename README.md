@@ -1,6 +1,3 @@
-Hello everyone,
-
-Aaje hu mara Node.js project nu explanation aapvano chu. Aa project ma me **Node.js, Express.js ane EJS** no use karyo che.
 
 Mara project ma mainly 3 important files che:
 **index.js, HomeControllers.js ane Home.ejs.**
