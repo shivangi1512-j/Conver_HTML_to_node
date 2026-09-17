@@ -1,3 +1,4 @@
+Hello,  Everyone
 
 Mara project ma mainly 3 important files che:
 **index.js, HomeControllers.js ane Home.ejs.**
